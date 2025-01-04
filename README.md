@@ -4,6 +4,8 @@
 
 **Channel:** [Karma Syndicate](https://t.me/KarmaSyndicate)
 
+**Tool Demo:** [Youtube Video](https://www.youtube.com/watch?v=XUwxW-h_EIU)
+
 ## Description:
 
 This script is a hacking tool designed for bypassing Two-Factor Authentication (2FA) in cPanel accounts and uploading malicious files (commonly known as "shells") to compromise the server. Here's what it does:
